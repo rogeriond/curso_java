@@ -11,7 +11,6 @@ Este repositório foi criado para centralizar todos os exercícios, projetos e d
 O projeto está estruturado utilizando **Maven**, e os códigos estão divididos por pacotes baseados nas seções do curso:
 
 * 📂 `secao04_estrutura_sequencial`: Exercícios de formatação, operadores aritméticos e entrada/saída de dados (`Scanner`).
-* *(Conforme você avançar, adicione as novas seções aqui!)*
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * **Java** (JDK 25 / Azul Zulu)
